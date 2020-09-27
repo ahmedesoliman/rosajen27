@@ -14,6 +14,11 @@
 - 📫 How to reach me: rosajen27@gmail.com
 - ⚡ Fun fact: I'm a 5th grade science teacher!
 
+### Let's Connect!
+<a href="https://www.linkedin.com/in/rosajen27/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/96683fb94f1925109397c012fc649ae7936a7b4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+
+<a href="https://rosa-portfolio.herokuapp.com/" rel="nofollow"><img height="30" src="https://img.shields.io/badge/-PORTFOLIO-red?style=for-the-badge" style="max-width:100%"></a>
+
 ## Technologies
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a></p>
