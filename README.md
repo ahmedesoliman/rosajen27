@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on a MERN project
 - 🌱 I’m currently learning ⚛ React
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with transitioning careers (I'm currently a 5th grade teacher!)
+- 🤔 I’m looking for help with transitioning careers
 - 📫 How to reach me: rosajen27@gmail.com
-- ⚡ Fun fact: I love powerlifting!
+- ⚡ Fun fact: I'm a 5th grade science teacher!
 
 ## Technologies
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a></p>
