@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm Jen, a 5th grade classroom teacher who's transitioning
 - 🔭 I’m currently working on a MERN project
 - 🌱 I’m currently learning ⚛ React
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with transitioning careers
 - 📫 How to reach me: rosajen27@gmail.com
 - ⚡ Fun fact: Yo hablo español
 
