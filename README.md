@@ -8,7 +8,7 @@
 
 Welcome to my GitHub! I'm Jen, an elementary school teacher who's transitioning out of the classroom and into the world of Web Development. Through self-study and enrolling in a coding Bootcamp at the University of Connecticut, I am building a solid foundation in both frontend and backend technologies and languages. 
 
-- 🔭 I’m currently working on 30 Days of Code
+- 🔭 I’m currently working on #100daysofcode
 - 🌱 I’m currently learning ⚛ React
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: rosajen27@gmail.com
