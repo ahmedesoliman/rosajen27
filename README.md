@@ -4,7 +4,7 @@
 **rosajen27/rosajen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## 👋 Hi there, I'm Jen
-### Front-End Web Developer
+### Full-Stack Web Developer
 
 Welcome to my GitHub! I'm Jen, an elementary school teacher who's transitioning out of the classroom and into the world of Web Development. Through self-study and enrolling in a coding Bootcamp at the University of Connecticut, I am building a solid foundation in both frontend and backend technologies and languages. 
 
