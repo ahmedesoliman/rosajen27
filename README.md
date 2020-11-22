@@ -6,7 +6,7 @@
 ## 👋 Hi there, I'm Jen
 ### Full-Stack Web Developer
 
-Welcome to my GitHub! I'm Jen, an elementary school science teacher who is transitioning out of the classroom and into the world of Web Development. Through self-study and enrolling in a <b>Certified Full-Stack Coding Bootcamp at the University of Connecticut</b>, I am building a solid foundation in both frontend and backend technologies and languages. 
+Welcome to my GitHub! I'm Jen, an elementary school science teacher who is transitioning out of the classroom and into the world of Web Development. Through self-study and recently graduating from a <b>Certified Full-Stack Coding Bootcamp at the University of Connecticut</b>, I am building a solid foundation in both frontend and backend technologies and languages. 
 
 - 🔭 I’m currently working on #100daysofcode
 - 🌱 I’m currently studying: The Complete 2020 Web Development Bootcamp by Angela Yu
