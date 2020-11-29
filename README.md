@@ -22,18 +22,15 @@ Welcome to my GitHub! I'm Jen, an elementary school science teacher who is trans
 ## Languages & Technologies
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/html5.svg">
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/css3.svg">
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/bootstrap.svg">
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/javascript.svg">
 <img align="left" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/jquery.svg">
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/bootstrap.svg">
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/mongodb.svg">
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/mysql.svg">
 <img align="left" alt="Express+Node" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/node-dot-js.svg">
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/react.svg">
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/git.svg">
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/mysql.svg">
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/github.svg">
-<img align="left" alt="GitLab" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/gitlab.svg">
 <img align="left" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/heroku.svg">
-<img align="left" alt="NPM" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/npm.svg">
 <img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/visualstudiocode.svg">
 <img align="left" alt="Slack" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/slack.svg">
-<img align="left" alt="Discord" width="40px" src="https://raw.githubusercontent.com/rosajen27/rosajen27/e3c5a8e2393b90d3bc6535b9d8920177f991e293/discord.svg">
