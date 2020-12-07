@@ -1,10 +1,6 @@
 ✨ Hello, World! I'm <a href="https://jennifer-rosa.herokuapp.com">Jennifer Rosa</a>, an elementary school science teacher, based in Connecticut, who is transitioning out of the classroom and into the world of Web Development.
 
-When I am not teaching my lovely students, I am passionately creating dynamic and beautiful web pages and web apps. I build full stack applications using JavaScript, MongoDB, Express, React.js, and Node.js.
-
 Through self-study and recently graduating from a coding Bootcamp at the University of Connecticut, I am building a solid foundation in both frontend and backend technologies and languages. My bootcamp experience has also given me the opportunity to work on several teams, doing daily standups and communication using Slack and Zoom, along with utilizing source control software such as GitHub.
-
-When I'm not online, I enjoy spending time outdoors, playing video games, powerlifting, and watching an irresponsible amount of Netflix.
 
 <br>
 
