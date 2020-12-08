@@ -1,9 +1,12 @@
+<img alt="Jennifer as an Octocat" src="https://raw.githubusercontent.com/rosajen27/rosajen27/master/octocat-1607386330722.png" width="200">
+
+
 ✨ Hello, World! I'm <a href="https://jennifer-rosa.herokuapp.com">Jennifer Rosa</a>, an elementary school science teacher, based in Connecticut, who is transitioning out of the classroom and into the world of Web Development.
 
 Through self-study and recently graduating from a coding Bootcamp at the University of Connecticut, I am building a solid foundation in both frontend and backend technologies and languages. My bootcamp experience has also given me the opportunity to work on several teams, doing daily standups and communication using Slack and Zoom, along with utilizing source control software such as GitHub.
 
 <br>
-<img alt="Jennifer as an Octocat" src="https://raw.githubusercontent.com/rosajen27/rosajen27/master/octocat-1607386330722.png" width="200">
+
 - 🔭 I’m currently working on #100daysofcode
 - 🌱 I’m currently studying: The Complete 2020 Web Development Bootcamp by Angela Yu
 - 👯 I’m looking to further my knowledge on building accessibile interfaces.
