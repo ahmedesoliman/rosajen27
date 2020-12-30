@@ -1,4 +1,4 @@
-✨ Hello, World! I'm <a href="https://jennifer-rosa.herokuapp.com">Jennifer Rosa</a>, an elementary school science teacher, based in Connecticut, who is transitioning out of the classroom and into the world of Web Development.
+✨ Hello, World! I'm <a href="https://jennifer-rosa.herokuapp.com">Jennifer Rosa</a>, an elementary school science teacher who is transitioning out of the classroom and into the world of Web Development.
 
 When I am not teaching my lovely students, I am passionately creating dynamic and beautiful web pages and web apps. I build full stack applications using JavaScript, MongoDB, Express, React.js, and Node.js.
 
@@ -7,8 +7,8 @@ Through self-study and recently graduating from a coding Bootcamp at the Univers
 <br>
 
 - 🖥️ I’m currently working on: #100daysofcode
-- 🌱 I’m currently studying: all things JavaScript
-- 🔭 I’m looking to: further my knowledge on building accessibile interfaces.
+- 🌱 I’m currently studying: JavaScript + React.js
+- 🔭 I’m looking to: further my knowledge on building accessibile interfaces
 - ⚡ Fun fact: Yo hablo español
 
 <br>
