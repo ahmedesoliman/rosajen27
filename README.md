@@ -7,7 +7,7 @@ Through self-study and recently graduating from a coding Bootcamp at the Univers
 <br>
 
 - 🖥️ I’m currently working on: #100daysofcode
-- 🌱 I’m currently studying: JavaScript + React.js
+- 🌱 I’m currently studying: JavaScript
 - 🔭 I’m looking to: further my knowledge on building accessibile interfaces
 - ⚡ Fun fact: Yo hablo español
 
