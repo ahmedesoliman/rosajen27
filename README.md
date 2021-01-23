@@ -11,6 +11,8 @@ Through self-study and recently graduating from a coding Bootcamp at the Univers
 - 🔭 I’m looking to: further my knowledge on building accessibile interfaces
 - ⚡ Fun fact: Yo hablo español
 
+Check out my most recent project: https://rosajen27.github.io/guess-my-number/
+
 <br>
 
 ### Languages & Technologies
