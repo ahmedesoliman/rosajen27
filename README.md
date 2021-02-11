@@ -1,13 +1,9 @@
 ✨ Hello, World! I'm Jennifer Rosa, a front-end web developer.
 
-<br>
-
 - 🖥️ I’m currently working on: improving the User Interface and Mobile Responsiveness of previously developed projects
 - 🌱 I’m currently studying: JavaScript
 - 🔭 I’m looking to: further my knowledge on building accessibile interfaces
 - ⚡ Fun fact: Yo hablo español
-
-Check out my most recent project: https://rosajen27.github.io/pig/
 
 <br>
 
