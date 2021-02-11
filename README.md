@@ -1,12 +1,8 @@
-✨ Hello, World! I'm <a href="https://jennifer-rosa.herokuapp.com">Jennifer Rosa</a>, an elementary school science teacher who is transitioning out of the classroom and into the world of Web Development.
-
-When I am not teaching my lovely students, I am passionately creating dynamic and beautiful web pages and web apps. I build full stack applications using JavaScript, MongoDB, Express, React.js, and Node.js.
-
-Through self-study and recently graduating from a coding Bootcamp at the University of Connecticut, I am building a solid foundation in both frontend and backend technologies and languages. My bootcamp experience has also given me the opportunity to work on several teams, doing daily standups and communication using Slack and Zoom, along with utilizing source control software such as GitHub.
+✨ Hello, World! I'm Jennifer Rosa, a front-end web developer.
 
 <br>
 
-- 🖥️ I’m currently working on: #100daysofcode
+- 🖥️ I’m currently working on: improving the User Interface and Mobile Responsiveness of previously developed projects
 - 🌱 I’m currently studying: JavaScript
 - 🔭 I’m looking to: further my knowledge on building accessibile interfaces
 - ⚡ Fun fact: Yo hablo español
