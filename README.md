@@ -1,6 +1,6 @@
 ✨ Hello, World! I'm Jennifer Rosa, a front-end web developer.
 
-- 🖥️ I’m currently working on: improving the User Interface and Mobile Responsiveness of previously developed projects
+- 🖥️ I’m currently working on: improving the UI and mobile responsiveness of previously developed projects
 - 🌱 I’m currently studying: JavaScript
 - 🔭 I’m looking to: further my knowledge on building accessibile interfaces
 - ⚡ Fun fact: Yo hablo español
