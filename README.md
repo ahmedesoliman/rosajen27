@@ -1,4 +1,4 @@
-✨ Hello, World! I'm <a href="https://rosajen27.github.io">Jennifer Rosa</a>, a software developer.
+✨ Hello, World! I'm <a href="https://rosajen27.github.io">Jennifer Rosa</a>, a web developer.
 
 - 🖥️ I’m currently working on: improving the UI and mobile responsiveness of previously developed projects
 - 🌱 I’m currently studying: JavaScript
