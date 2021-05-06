@@ -1,6 +1,6 @@
 ✨ Hello, World! I'm <a href="https://rosajen27.github.io">Jennifer Rosa</a>, a web developer.
 
-- 🖥️ I’m currently working on: <a href="https://github.com/rosajen27/100-days-of-code">100 Days of Code</a>
+- 🖥️ I’m currently working on: <a href="https://github.com/rosajen27/100-days-of-code/blob/master/log.md">100 Days of Code</a>
 - 🌱 I’m currently studying: JavaScript
 - 🔭 I’m looking to: further my knowledge on building accessibile interfaces
 - ⚡ Fun fact: Yo hablo español
