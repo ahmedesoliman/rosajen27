@@ -1,6 +1,6 @@
 ### ✨ Hello, World! I'm <a href="https://rosajen27.github.io">Jennifer Rosa</a>.
 
-I'm a certified k-6 educator transitioning to a web developer. I enjoy creating things that live on the internet and turning problems into beautiful designs. I primarily focus on HTML, CSS, and JavaScript. While I love development and design, I'm also comfortable using back-end tech including NodeJS, Express and MongoDB.
+I'm an experienced certified k-6 educator transitioning to a web developer. I enjoy creating things that live on the internet and turning problems into beautiful designs. I primarily focus on HTML, CSS, and JavaScript. While I love development and design, I'm also comfortable using back-end tech including NodeJS, Express and MongoDB.
 
 Transitioning to web development has enabled me to continue my lifelong passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting.
 
