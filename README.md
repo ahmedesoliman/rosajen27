@@ -28,7 +28,6 @@ Check out my most <a href="https://github.com/rosajen27/bankist">recent project<
 <img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="left" alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 <img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
 
 <br><br><br>
