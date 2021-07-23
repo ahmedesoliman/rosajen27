@@ -4,7 +4,7 @@ I'm a Front End Web Developer with a background in Education. I enjoy creating t
 
 Transitioning to web development has enabled me to continue my lifelong passion for learning and embrace my status as a forever student. I love to work as part of a dynamic team and find the challenges that programming brings very exciting!
 
-Check out my most <a href="https://github.com/rosajen27/bankist">recent project</a>.
+<b>Check out my most <a href="https://github.com/rosajen27/bankist-ad">recent project</a>.</b>
 
 - 🖥️ I’m currently working on: <a href="https://github.com/rosajen27/100-days-of-code/blob/master/log.md">100 Days of Code</a>
 - 🌱 I’m currently studying: JavaScript
