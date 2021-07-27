@@ -10,7 +10,7 @@ Transitioning to web development has enabled me to continue my passion for learn
 - 🌱 I’m currently studying: JavaScript
 - 🔍 I’m looking to: transition into a Front End Web Development role
 - ⚡ Fun fact: ¡Yo hablo español!
-- 📬 How to reach me: linkedin.com/in/rosajen27
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/rosajen27">linkedin.com/in/rosajen27</a>
 
 <br>
 
